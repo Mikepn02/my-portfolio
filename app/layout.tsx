@@ -13,7 +13,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Mike | Person Portfolio",
+  title: "Mike Nzabera | Person Portfolio",
 };
 
 export default function RootLayout({
